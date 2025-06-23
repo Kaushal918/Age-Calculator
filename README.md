@@ -14,15 +14,9 @@ This is a simple Age Calculator built with React.js and Luxon.
 - Luxon
 - Vite (for project scaffolding)
 
-## How to Run Locally
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/react-age-calculator.git
 
 ## Project URL
-
-- https://age-calculator-react.netlify.app
+https://roadmap.sh/projects/age-calculator
 
 
 ## How to Run
